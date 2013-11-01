@@ -4,3 +4,5 @@ author: Ole Martin Gjersvik
 description: Implemtatoin of none secure hashes for Dart.
 dependencies:
   crypto: any
+dev_dependencies:
+  unittest: any

@@ -1,0 +1,6 @@
+name: hashes
+version: 0.0.1
+author: Ole Martin Gjersvik
+description: Implemtatoin of none secure hashes for Dart.
+dependencies:
+  crypto: any
